@@ -1,0 +1,28 @@
+_repo: A-Gentleman-of-France--Being-the-Memoirs-of-Gaston-de-Bonne-Sieur-de-Marsac_1939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Henry III, 1574-1589 -- Fiction'
+- GITenberg
+title: 'A Gentleman of France: Being the Memoirs of Gaston de Bonne Sieur de Marsac'
+url: http://www.gutenberg.org/ebooks/1939
