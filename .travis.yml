@@ -1,0 +1,61 @@
+sudo: required
+dist: trusty
+language: ruby
+
+before_install:
+before_install:
+- gem install asciidoctor -v 1.5.2
+- gem install tilt
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install pillow
+- sudo pip install cssutils
+- sudo pip install docutils
+- sudo pip install roman
+- sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
+script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- sudo pip install -r asciidoctor-htmlbook/gitberg-machine/requirements.txt
+
+- /usr/bin/python -c "from gitenberg import travis; travis.build_epub()"
+- ebook-convert book.epub book.mobi
+- xvfb-run ebook-convert book.epub book.pdf
+branches:
+  only:
+  - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: UpGYOZ9rGVMNSF//lW0wYmUlVpWHOfJK216MIBQaWHHxbWo06GrzYP6kEVVI9NOh7V/jJvvZv4i4mXxyzID2/YX5zrwS3OD41+0vc2T0HNNy45VVueNO3J/j9UhzEH9SXcfeTTgXFcaKj3nmgyK1EqMCeCUtSDurs9Pfj9NqIi1h5fpKqGOReP2GEMTtb85I6t/W7SVarDPYx8BySNj/g2chKyKgz+BU8sjqM676h6YVJkqQYNYH7ZzsPyGF1Vvs7zAmKMnRTygsqYo4SMgTKtHkhGqx8oUWZcmA7gP7fFIfYrucAHs3zGFHWUu6ZDrgB4bGhMaHuJXVBa2aL9PEsmNJo3NXBaKtOes0gBC+1k6waavj9Ytr0asj14ER11p9sFPN/C0IKxoEizakM+mBn9HG6e2xRylqY9SqOupn8FWWcGPnCbQAhcIhco4kaoLNg7aUhqVOzuDLCZaI8DcmiukuVQeZw78uDLW8Z+/8cIUymSQVgu9Yw4pqFgRyRc0I0DGeDeM6ue+ftrTYAA1mIk6GBEPZO1Ohg0WFkDEvk97uUxXLR0a6pQO9hFjhynu0w2xHemj0OB/yICslEUet9Ees1Lwjh+pWO9+wbI8PQMbIMNlMzEAsOa5GtazPyDfyOE/FQgtJdyS7D09wKq75hg3z+L6KdV7ZvtieXSs0OO4=
+  file:
+    - book.epub
+    - book.mobi
+    - book.pdf
+  "on":
+    repo: GITenberg/A-Gentleman-of-France--Being-the-Memoirs-of-Gaston-de-Bonne-Sieur-de-Marsac_1939
+addons:
+  apt:
+    packages:
+    - xsltproc
+    - xvfb
+    - calibre
+    - python-pip
+    - git
+    - python-dev
+    - libjpeg-dev
+    - libpng-dev
+    - libfreetype6
+    - libfreetype6-dev
+    - zlib1g-dev
+    - python-lxml
+    - libxml2-dev
+    - libxslt1-dev
+    - tidy
