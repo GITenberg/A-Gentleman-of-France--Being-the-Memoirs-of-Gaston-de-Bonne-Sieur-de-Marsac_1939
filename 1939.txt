@@ -1489,7 +1489,7 @@ nothing more now, but might rather, by loitering in the neighbourhood,
 awaken suspicion, I remounted and made for the highway and the village,
 where I found my men in noisy occupation of the inn, a poor place, with
 unglazed windows, and a fire in the middle of the earthen floor.
-My first care wets to stable the Cid in a shed at the back, where I
+My first care was to stable the Cid in a shed at the back, where I
 provided for its wants as far as I could with the aid of a half-naked
 boy, who seemed to be in hiding there.
 
@@ -2623,7 +2623,7 @@ unlighted, and smelled close and unpleasant.
 is the meaning of this?'
 
 For I was perplexed. The revenues of Marsac, though small, should have
-kept; my mother, whom I had last seen in Paris before the Nemours
+kept my mother, whom I had last seen in Paris before the Nemours
 edict, in tolerable comfort--such modest comfort, at any rate, as could
 scarcely be looked for in such a house as this--obscure, ill-tended,
 unlighted. To my perplexity was added, before I reached the top of
@@ -7801,7 +7801,7 @@ opposed to the powers of evil regains his vigour on finding himself
 engaged with a mortal foe. Though I knew that the hours of grace were
 fast running to a close, and that on the morrow the priest would call
 for an answer, I experienced that evening an unreasonable lightness and
-cheerfulness. I retired to rest with confidence, and slept is comfort,
+cheerfulness. I retired to rest with confidence, and slept in comfort,
 supported in part, perhaps, by the assurance that in that room where my
 mother died her persecutor could have no power to harm me.
 
@@ -9274,7 +9274,7 @@ expecting news, and then, seeing who it was, looked away again
 impatiently. The Duke of Nevers was walking moodily to and fro before
 one of the windows, his hands clasped behind his back: while Biron and
 Crillon, reconciled by the common peril, talked loudly on the hearth. I
-hesitated a moment, uncertain how to proceed, for I was not yet; so old
+hesitated a moment, uncertain how to proceed, for I was not yet so old
 at Court as to feel at home there. But, at last making up my mind, I
 walked boldly up to Crillon and requested his good offices to procure me
 an immediate audience of the king.
@@ -10071,7 +10071,7 @@ laid my pistols, sword, and dagger on a stool by his side. Then I knelt.
 when you please. Here, too, sire, are my weapons. I am your prisoner,
 the Provost-Marshal is outside, and you can at a word deliver me to him.
 Only one thing I beg, sire,' I continued earnestly, 'that your Majesty
-will treat; as a delusion the idea that I meditated for a moment
+will treat as a delusion the idea that I meditated for a moment
 disrespect or violence to your person.'
 
 He looked at me dully, his face pale, his eyes fish-like. 'Sanctus,
@@ -10326,7 +10326,7 @@ unacknowledged. I begged leave, therefore, to distribute a small
 gratuity among his attendants, and requested him to do me the honour of
 drinking a bottle of wine with me. This being speedily procured, at such
 an expense as is usual in these places, where prisoners pay, according
-as they are rich or poor, in purse or person, kept; us sitting for an
+as they are rich or poor, in purse or person, kept us sitting for an
 hour, and finally sent us to our pallets perfectly satisfied with one
 another.
 
@@ -11306,7 +11306,7 @@ recovered. This ghastly news had scared my company to such a degree that
 they had gone as far from the house as the level ground permitted, and
 there lighted a fire, round which they were going to pass the night.
 Fanchette had taken up her quarters in the stable, and the equerry
-announced that he had kept a shed full of sweet, hay for M. d'Agen and
+announced that he had kept a shed full of sweet hay for M. d'Agen and
 myself. I assented to this arrangement, and after supping off soup and
 black bread, which was all we could procure, bade the peasant rouse us
 two hours before sunrise; and so, being too weary and old in service to
@@ -11720,7 +11720,7 @@ I saw the old panic revive in their eyes. Men who an hour or two before
 had crossed the court under fire with the utmost resolution, and dared
 instant death without a thought, grew pale, and looking from this side
 of the valley to that; with faltering eyes, seemed to be seeking, like
-hunted animals, a place of refuge. Fear, once aroused, hung is the
+hunted animals, a place of refuge. Fear, once aroused, hung in the
 air. Men talked in whispers of the abnormal heat, and, gazing at the
 cloudless sky, fled from the sunshine to the shadow; or, looking over
 the expanse of woods, longed to be under cover and away from this lofty
@@ -12520,7 +12520,7 @@ lasting joy. Of which next.
 I had not begun to take notice long before I saw that M. Francois and
 madame had come to an understanding; such an one, at least, as permitted
 him to do all for her comfort and entertainment without committing
-her to more than was becoming at such, a season. Naturally this left
+her to more than was becoming at such a season. Naturally this left
 mademoiselle much in my company; a circumstance which would have
 ripened into passion the affection I before entertained for her, had
 not gratitude and a nearer observance of her merits already elevated my
@@ -13599,7 +13599,7 @@ principal street, finding the press increase as we advanced, when I
 heard, as I turned a corner, my name called, and, looking up, saw at
 a window the face of which I was in search. After that half a minute
 sufficed to bring M. d'Agen flying to my side, when nothing, as I
-had expected, would do but I must dismount; where I was and share his
+had expected, would do but I must dismount where I was and share his
 lodging. He made no secret of his joy and surprise at sight of me, but
 pausing only to tell Simon where the stable was, haled me through the
 crowd and up his stairs with a fervour and heartiness which brought the
@@ -14246,7 +14246,7 @@ dying, or merely wounded.
 hearing. 'Do not detain me with your affairs longer than is necessary.
 M. de Turenne presses me to carry into effect the order I gave
 yesterday. But as you have placed yourself in jeopardy on my account I
-feel that; something is due to you. You will be good enough, therefore,
+feel that something is due to you. You will be good enough, therefore,
 to present yourself at once at M. la Varenne's lodging, and give me
 your parole to remain there without stirring abroad until your affair is
 concluded.'
@@ -14328,7 +14328,7 @@ hundred fathoms deeper in love,' he added, eyeing me roguishly, 'than
 when I saw her last.'
 
 It was my turn to colour now, and I did so, feeling all the pleasure
-and delight such, a statement was calculated to afford me. Picturing
+and delight such a statement was calculated to afford me. Picturing
 mademoiselle as I had seen her last, leaning from her horse with love
 written so plainly on her weeping face that all who ran might read, I
 sank into so delicious a reverie that M. la Varenne, entering suddenly,
@@ -14710,7 +14710,7 @@ reached the upper end of the room I saw the scene repeated.
 
 I looked on at all this in the utmost astonishment, unable to guess or
 conceive what had happened to give M. de Rosny so much importance. For
-it did not; escape me that the few words he had stopped to speak to me
+it did not escape me that the few words he had stopped to speak to me
 had invested me with interest in the eyes of all who stood near.
 They gave me more room and a wider breathing-space, and looking at me
 askance, muttered my name in whispers. In my uncertainty, however, what
